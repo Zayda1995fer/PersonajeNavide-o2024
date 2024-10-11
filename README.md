@@ -43,4 +43,11 @@ https://wokwi.com/projects/410235530254358529
 https://drive.google.com/drive/folders/1Cq3rXJmnXHD_G9u_wNk9eTwa69bkYWld?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
-Se a fifilcultado sacar las capturas de pantalla ya que el curso de netacad esta en manteniento
+![image](https://github.com/user-attachments/assets/c43ff311-f27c-41ab-bae4-6aabd713ff22)
+![image](https://github.com/user-attachments/assets/7d6d0e94-0551-460e-b48a-7e9063727da6)
+![image](https://github.com/user-attachments/assets/b5bd1234-3824-4994-b1d8-c098e9c38a5f)
+![image](https://github.com/user-attachments/assets/5f4d1ef3-174b-4c9b-9faf-d8a35f7b7c6a)
+![image](https://github.com/user-attachments/assets/c80f3d49-2c01-4f80-af25-7dca8478bdf8)
+![image](https://github.com/user-attachments/assets/f30ebaf4-84e7-402f-8f11-ce75e1c9a973)
+
+
